@@ -1,0 +1,6 @@
+name: ReplayPlugin
+version: 1.0
+main: com.dotw1ldcard.replay.ReplayPlugin
+commands:
+  snap:
+  replay:
